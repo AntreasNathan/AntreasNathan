@@ -5,8 +5,7 @@ A passionate developer from Cyprus!
 ## Who Am I
 📚 Studying **Artificial Intelligence MSc** at **King's College London**  
 🎓 **Computer Science BSc** graduate from the University of Cyprus  
-💡 Interested in AI Planning, Computer Vision, ML/DL, Autonomous Systems, and full-stack development  
-💪 Always building projects to learn faster and better
+💡 Interested in AI, ML/DL, full-stack development and web development
 
 ---
 
