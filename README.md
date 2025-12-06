@@ -1,4 +1,4 @@
-# Hi, I'm Andreas
+# Hi, I'm Antreas
 
 A passionate developer from Cyprus!
 
