@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Andreas
 
-<!--
-**AntreasNathan/AntreasNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate developer from Cyprus!
 
-Here are some ideas to get you started:
+## Who Am I
+📚 Studying **Artificial Intelligence MSc** at **King's College London**  
+🎓 **Computer Science BSc** graduate from the University of Cyprus  
+💡 Interested in AI Planning, Computer Vision, ML/DL, Autonomous Systems, and full-stack development  
+💪 Always building projects to learn faster and better
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Languages and Tools I've Used
+
+![linux](https://skillicons.dev/icons?i=linux)
+![c](https://skillicons.dev/icons?i=c)
+![cpp](https://skillicons.dev/icons?i=cpp)
+![java](https://skillicons.dev/icons?i=java)
+![python](https://skillicons.dev/icons?i=python)
+![javascript](https://skillicons.dev/icons?i=javascript)
+![php](https://skillicons.dev/icons?i=php)
+![html](https://skillicons.dev/icons?i=html)
+![css](https://skillicons.dev/icons?i=css)
+![docker](https://skillicons.dev/icons?i=docker)
+![git](https://skillicons.dev/icons?i=git)
+![bash](https://skillicons.dev/icons?i=bash)
+![api](https://skillicons.dev/icons?i=fastapi)
+![tensorflow](https://skillicons.dev/icons?i=tensorflow)
+![opencv](https://skillicons.dev/icons?i=opencv)
+![mysql](https://skillicons.dev/icons?i=mysql)
+![vscode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 🔗 About me?
+
+[**LinkedIn**](https://www.linkedin.com/in/antreas-nathanail/)  
+[**Mail**](andreasnathan9@hotmail.com)
